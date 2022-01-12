@@ -30,4 +30,9 @@
 
 ## :zap: GitHub Stats
 
-<img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true" />
+<img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
+
+
+## :fire: Language Stats
+
+<img align="left" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
