@@ -34,3 +34,8 @@
 
 ## :bar_chart: Language Stats
 <img align="center" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
+
+
+## :phone: Contact Me
+- Email: siddhant.tohan.in@protonmail.com
+- LinkedIn: [Siddhant Tohan](https://www.linkedin.com/in/siddhant-tohan/)
