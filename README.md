@@ -32,4 +32,4 @@
 
 <img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true" />
 
-[sidtohan] : https://github.com/sidtohan
+[sidtohan]:[https://github.com/sidtohan]
