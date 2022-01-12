@@ -1,13 +1,14 @@
-### Hello there! I'm Siddhant - aka [sidtohan](https://github.com/sidtohan) 👋 
+### Hello there! I'm Siddhant Tohan.
 
+## I'm a full stack developer, competitive programmer and a cloud enthusiast
 
-## I'm a full stack developer and a student at NSUT
+### :information_desk_person: About Me
+- :man: I am a 2nd year student at NSUT.
+- :seedling: I am currently completing Full Stack Open by University of Helsenki.
+- :computer: I’m looking to work in the industry to gain some relevant experience.
+- :goal_net: 2022 Goals => Work more on the MERN Stack and gain actual work experience.
 
-- :seedling: I am currently completing Full Stack Open by University of Helsenki
-- :computer: I’m looking to work in the industry to gain some relevant experience
-- 🥅 2022 Goals: Work more on the MERN Stack and gain actual work experience
-
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,10 +28,9 @@
 <br />
 <br />
 
-## :zap: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 <img align="center" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
 
-<br/>
 
-## :fire: Language Stats
+## :bar_chart: Language Stats
 <img align="center" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
