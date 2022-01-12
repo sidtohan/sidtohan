@@ -1,4 +1,4 @@
-### Hello there! I'm Siddhant - aka [sidtohan] 👋 
+### Hello there! I'm Siddhant - aka [sidtohan][https://github.com/sidtohan] 👋 
 
 
 ## I'm a full stack developer and a student at NSUT
@@ -31,5 +31,3 @@
 ## :zap: GitHub Stats
 
 <img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true" />
-
-[sidtohan]:[https://github.com/sidtohan]
