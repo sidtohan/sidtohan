@@ -28,13 +28,9 @@
 <br />
 
 ## :zap: GitHub Stats
-<p>
-  <img align="center" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
-</p>
+<img align="center" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
 
 <br/>
 
 ## :fire: Language Stats
-<p>
-  <img align="center" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
-</p>
+<img align="center" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
