@@ -28,12 +28,17 @@
 <br />
 
 
-## :zap: GitHub Stats
+<details>
+<summary>:zap: GitHub Stats </summary>
 
 <img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
+</details>
 
----
+<br/>
+<br/>
 
-## :fire: Language Stats
+<details>
+<summary> :fire: Language Stats </summary>
 
 <img align="left" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
+</details>
