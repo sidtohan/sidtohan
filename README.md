@@ -1,4 +1,4 @@
-### Hello there! I'm Siddhant - aka [sidtohan][https://github.com/sidtohan] 👋 
+### Hello there! I'm Siddhant - aka [sidtohan](https://github.com/sidtohan) 👋 
 
 
 ## I'm a full stack developer and a student at NSUT
