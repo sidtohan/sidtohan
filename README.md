@@ -26,9 +26,6 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
-  <img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true" />
