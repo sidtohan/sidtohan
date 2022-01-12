@@ -27,18 +27,14 @@
 <br />
 <br />
 
-
-<details>
-<summary>:zap: GitHub Stats </summary>
-
+## :zap: GitHub Stats
+<p>
 <img align="left" alt="sidtohan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidtohan&show_icons=true&hide_border=true&theme=merko" />
-</details>
+</p>
 
 <br/>
-<br/>
 
-<details>
-<summary> :fire: Language Stats </summary>
-
+## :fire: Language Stats
+<p>
 <img align="left" alt="sidtohan's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidtohan&theme=merko" />
-</details>
+</p>
