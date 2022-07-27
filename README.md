@@ -3,8 +3,8 @@
 ## I'm a full stack developer, competitive programmer and a cloud enthusiast
 
 ### :information_desk_person: About Me
-- :man: I am a 2nd year student at NSUT.
-- :seedling: I am currently completing Full Stack Open by University of Helsinki.
+- :man: I am a 3rd year student at NSUT.
+- :seedling: I am currently working on the Shiksha Frontend Project under the CodeForGovtech Program.
 - :computer: I’m looking to work in the industry to gain some relevant experience.
 - :goal_net: 2022 Goals => Work more on the MERN Stack and gain actual work experience.
 
