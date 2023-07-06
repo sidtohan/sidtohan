@@ -3,8 +3,8 @@
 ## I'm a full stack developer, competitive programmer and a cloud enthusiast
 
 ### :information_desk_person: About Me
-- :man: I am a 3rd year student at NSUT.
-- :seedling: I am currently working as a freelancer and also contributing towards meshery.
+- :man: I'm a final-year student at NSUT.
+- :seedling: I'm currently interning at a startup "Fundwave" as a full stack intern.
 - :computer: I’m looking to work in the industry to gain some relevant experience.
 - :goal_net: 2023 Goals => Work more on the MERN Stack and gain actual work experience.
 
