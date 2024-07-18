@@ -3,10 +3,10 @@
 ## I'm a full stack developer, competitive programmer and a cloud enthusiast
 
 ### :information_desk_person: About Me
-- :man: I'm a final-year student at NSUT.
-- :seedling: I'm currently interning at a startup "Fundwave" as a full stack intern.
-- :computer: I’m looking to work in the industry to gain some relevant experience.
-- :goal_net: 2023 Goals => Work more on the MERN Stack and gain actual work experience.
+- :man: I'm a 2024 Mathematics and Computing graduate from NSUT.
+- :seedling: I'm currently working at Siemens EDA as a Member Technical Staff.
+- :computer: I’m looking to gain more skills by working in the industry.
+- :goal_net: 2024 Goals: Work hard, party harder!
 
 ### 🧰 Languages and Tools:
 
