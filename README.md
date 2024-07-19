@@ -1,6 +1,6 @@
-### Hello there! I'm Siddhant Tohan.
+## Hello there! I'm Siddhant Tohan.
 
-## I'm a MTS at Siemens EDA, and enjoy working on open source issues to upskill myself.
+### I'm a MTS at Siemens EDA, and enjoy working on open source issues to upskill myself.
 
 ### :information_desk_person: About Me
 - :man: I'm a 2024 Mathematics and Computing graduate from NSUT.
