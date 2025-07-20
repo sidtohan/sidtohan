@@ -1,12 +1,12 @@
 ## Hello there! I'm Siddhant Tohan.
 
-### I'm a MTS at Siemens EDA, and enjoy working on open source issues to upskill myself.
+### I'm a Software Engineer, and enjoy working on open source issues to upskill myself.
 
 ### :information_desk_person: About Me
 - :man: I'm a 2024 Mathematics and Computing graduate from NSUT.
 - :seedling: I'm currently working at Siemens EDA as a Member Technical Staff.
-- :computer: I’m looking to gain more skills by working in the industry.
-- :goal_net: 2024 Goals: Work hard, party harder!
+- :computer: I’m looking to dive deep into system level programming.
+- :goal_net: 2025 Goals: Work hard, party harder!
 
 ### 🧰 Languages and Tools:
 
